@@ -18,14 +18,16 @@ Run in Node, this command line application  requests information from the user a
 
 
 A screenshot showing an example user input is shown below:
-[/Users/eileenma/bootcamp/TP-Generator-/assets/screenshotUserInput.png]
+![Alt text](assets/screenshotHTMl.png?raw=true "UserInput")
+
 
 When the information about the employees are entered, the user is asked whether there are more employees to add. 
 If yes, the user is provided with the same prompts again. 
 If no, then the HTMl file is created with cards displaying the information about the employees informations entered in the " output" folder titled " team.html". 
 
 A screenshot of the team profile is shown below. 
-[/Users/eileenma/bootcamp/TP-Generator-/assets/screenshotHTMl.png]
+![Alt text](assets/screenshotHTML.png?raw=true "UserInput")
+
 
 # Techniques and Technologies Used
 The app was created using Visual Studios, Node.js, NPM modules default modules, the " inquirer", and " fs" module. 
