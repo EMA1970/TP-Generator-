@@ -26,7 +26,7 @@ If yes, the user is provided with the same prompts again.
 If no, then the HTMl file is created with cards displaying the information about the employees informations entered in the " output" folder titled " team.html". 
 
 A screenshot of the team profile is shown below. 
-![Alt text](assets/screenshotHTML.png?raw=true "UserInput")
+![Alt text](assets/screenshotHTML.png?raw=true "TeamProfile")
 
 
 # Techniques and Technologies Used
