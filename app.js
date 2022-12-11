@@ -41,7 +41,7 @@ function addMember() {
         } else if (role === "Intern") {
             roleInfo = "school name";
         } else {
-            roleInfo = "office phone number";
+            roleInfo = "office number";
         }
         inquirer.prompt([{
             message: `Enter team member's ${roleInfo}`,
